@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <a href="mailto:ajoycesena@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
+ <li>🌎  ┇http://joycesena.epizy.com;</li>
   <li>🎓 ┇Graduada em análise e desenvolvimento de sistemas;</li>
   <li>🥋 ┇Nascida no Rio de Janeiro e Atuando na área desde 2017; </li>
   <li>😍 ┇Escrevo códigos para máquinas e palavras para pessoas;</li>

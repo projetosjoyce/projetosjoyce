@@ -1,4 +1,6 @@
- ## 💻 ✨ Joyce Sena 
+<div>
+ 
+## 💻 ✨ Joyce Sena 
 <a href="https://www.linkedin.com/in/joyce-sena/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/joycedeveloper/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:ajoycesena@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
@@ -11,8 +13,10 @@
   <li>🚀 ┇Apaixonada por Tecnologia; </li>
   <li>💜 ┇Amo compartilhar conhecimentos.</li>
 </ul>
+ 
+ </div>
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <img align="center" alt="Joyce-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Joyce-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Joyce-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

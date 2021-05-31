@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
- ## 💻 ✨ Joyce Sena - Dev Front-End.
+ ## 💻 ✨ Joyce Sena 
 <a href="https://www.linkedin.com/in/joyce-sena/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/joycedeveloper/"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="mailto:ajoycesena@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
@@ -28,12 +28,20 @@ Here are some ideas to get you started:
   <li>💜 ┇Amo compartilhar conhecimentos.</li>
 </ul>
 
-  
   ##
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=projetosjoyce&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=projetosjoyce&layout=compact&langs_count=16&theme=dracula"/>
+   
+   <div style="display: inline_block"><br>
+  <img align="center" alt="Joyce-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joyce-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Joyce-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Joyce-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Joyce-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+   
    
  ![Snake animation](https://github.com/projetosjoyce/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <div>

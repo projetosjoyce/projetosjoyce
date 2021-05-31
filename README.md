@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=projetosjoyce&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=projetosjoyce&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- ![Snake animation](https://github.com/projetosjoyce/projetosjoyce/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/projetosjoyce/projetosjoyce/blob/output/github-contribution-grid-snake.svg)

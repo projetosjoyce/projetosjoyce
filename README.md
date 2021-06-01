@@ -11,7 +11,7 @@
   <li>🥋 ┇Nascida no Rio de Janeiro e Atuando na área desde 2017; </li>
   <li>😍 ┇Escrevo códigos para máquinas e palavras para pessoas;</li>
   <li>🚀 ┇Apaixonada por Tecnologia; </li>
-  <li>💜 ┇Amo compartilhar conhecimentos.</li>
+  <li>💜 ┇Amo ser FrontEnd & Amo compartilhar conhecimentos.</li>
 </ul>
  
  </div>

@@ -8,6 +8,7 @@
 <ul>
  <li>🌎  ┇http://joycesena.epizy.com;</li>
   <li>🎓 ┇Graduada em análise e desenvolvimento de sistemas;</li>
+  <li>🎓 ┇Pós Graduada em arquitetura de software;</li>
   <li>🥋 ┇Nascida no Rio de Janeiro e Atuando na área desde 2017; </li>
   <li>😍 ┇Escrevo códigos para máquinas e palavras para pessoas;</li>
   <li>🚀 ┇Apaixonada por Tecnologia; </li>

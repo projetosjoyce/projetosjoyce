@@ -7,11 +7,11 @@
 
 <ul>
  <li>🌎  ┇http://joycesena.epizy.com;</li>
-  <li>🎓 ┇Graduada em análise e desenvolvimento de sistemas;</li>
-  <li>🥋 ┇Nascida no Rio de Janeiro e Atuando na área desde 2017; </li>
-  <li>😍 ┇Escrevo códigos para máquinas e palavras para pessoas;</li>
-  <li>🚀 ┇Apaixonada por Tecnologia; </li>
-  <li>💜 ┇Amo ser FrontEnd & Amo compartilhar conhecimentos.</li>
+  <li>🎓 ┇Degree in systems analysis and development;</li>
+  <li>🥋 ┇Born in Rio de Janeiro and working in the area since 2017; </li>
+  <li>😍 ┇I write code for machines and words for people;</li>
+  <li>🚀 ┇Passionate about Technology; </li>
+  <li>💜 ┇Love being FrontEnd & Love sharing knowledge.</li>
 </ul>
  
 </div>

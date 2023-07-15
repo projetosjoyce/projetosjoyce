@@ -11,7 +11,7 @@
   <li>🥋 ┇Born in Rio de Janeiro and working in the area since 2017; </li>
   <li>😍 ┇I write code for machines and words for people;</li>
   <li>🚀 ┇Passionate about Technology; </li>
-  <li>💜 ┇Love being FrontEnd & Love sharing knowledge.</li>
+  <li>💜 ┇Love being Dev & Love sharing knowledge.</li>
 </ul>
  
 </div>

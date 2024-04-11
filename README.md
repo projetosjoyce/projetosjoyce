@@ -6,7 +6,6 @@
 <a href="mailto:ajoycesena@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"></a>
 
 <ul>
- <li>🌎  ┇http://joycesena.epizy.com;</li>
   <li>🎓 ┇Degree in systems analysis and development;</li>
   <li>🥋 ┇Born in Rio de Janeiro and working in the area since 2017; </li>
   <li>😍 ┇I write code for machines and words for people;</li>
